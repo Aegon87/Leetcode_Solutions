@@ -9,8 +9,8 @@ class Solution(object):
         for num in numSet:
             #check if start of a sequence
             if num-1 not in numSet:
-                cnt = 0
+                cnt = 1
                 while num+cnt in numSet:
                     cnt += 1
-                    longest = max(longest, cnt)
+                longest = max(longest, cnt)
         return longest
