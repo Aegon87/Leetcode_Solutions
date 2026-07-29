@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0704-binary-search](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -22,5 +23,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
