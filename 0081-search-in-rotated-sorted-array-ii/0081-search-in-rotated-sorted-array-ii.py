@@ -13,6 +13,7 @@ class Solution(object):
             elif nums[l]==nums[mid]==nums[r]:
                 l += 1
                 r -= 1
+                continue
             elif nums[l]<=nums[mid]:
                 if nums[l]<=target<=nums[mid]:
                     r = mid-1
