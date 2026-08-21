@@ -14,7 +14,8 @@ class Solution(object):
             return False
         
         countS, countT = {}, {}
-        for i in range(len(s)):
-            countS[s[i]] = 1 + countS.get(s[i], 0)
-            countT[t[i]] = 1 + countT.get(t[i], 0)
+        for num in s:
+            countS[num] = countS.get(num, 0) + 1
+        for num in t:
+            countT[num] = countT.get(num, 0) + 1
         return countS == countT
