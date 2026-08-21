@@ -13,4 +13,5 @@ class Solution(object):
 
         if len(nums) != len(set(nums)):
             return True
-        return False
+        else:
+            return False
