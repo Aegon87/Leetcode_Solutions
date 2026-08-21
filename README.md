@@ -24,6 +24,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 ## Union-Find
 |  |
 | ------- |
@@ -43,4 +44,9 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
