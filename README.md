@@ -34,6 +34,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -67,6 +68,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
