@@ -132,4 +132,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
