@@ -118,6 +118,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -136,4 +137,8 @@
 |  |
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0596-classes-with-at-least-5-students) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
