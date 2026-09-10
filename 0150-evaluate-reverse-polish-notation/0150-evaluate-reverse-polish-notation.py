@@ -30,7 +30,7 @@ class Solution:
                 stack.append(a * b)
             elif i == "/":
                 a, b = stack.pop(), stack.pop()
-                stack.append(int(float(b / a)))
+                stack.append(int(b / a))
             else:
                 stack.append(int(i))
         return stack[0]
