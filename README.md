@@ -24,6 +24,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0704-binary-search) |
@@ -40,6 +41,7 @@
 | [0141-linked-list-cycle](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
@@ -72,6 +74,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0981-time-based-key-value-store](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0981-time-based-key-value-store) |
@@ -199,4 +202,13 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
