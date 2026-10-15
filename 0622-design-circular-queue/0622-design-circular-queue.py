@@ -1,28 +1,75 @@
+"""DoublyLinkedList: """
+# class ListNode:
+#     def __init__(self, val, nxt=None, prev=None):
+#         self.val = val
+#         self.next = nxt
+#         self.prev = prev
+
+# class MyCircularQueue:
+#     def __init__(self, k: int):
+#         self.k = k
+#         self.left = ListNode(0, None, None)
+#         self.right = ListNode(0, None, self.left)
+#         self.left.next = self.right
+
+#     def enQueue(self, value: int) -> bool:
+#         if self.isFull(): return False
+#         curr = ListNode(value, self.right, self.right.prev)
+#         self.right.prev.next = curr
+#         self.right.prev = curr
+#         self.k -= 1
+#         return True
+
+#     def deQueue(self) -> bool:
+#         if self.isEmpty(): return False
+#         self.left.next = self.left.next.next
+#         self.left.next.prev = self.left
+#         self.k += 1
+#         return True
+
+#     def Front(self) -> int:
+#         if self.isEmpty(): return -1
+#         return self.left.next.val
+
+#     def Rear(self) -> int:
+#         if self.isEmpty(): return -1
+#         return self.right.prev.val
+
+#     def isEmpty(self) -> bool:
+#         return self.left.next == self.right
+
+#     def isFull(self) -> bool:
+#         return self.k == 0
+
+"""Single Linked List: """
 class ListNode:
-    def __init__(self, val, nxt=None, prev=None):
+    def __init__(self, val, nxt=None):
         self.val = val
         self.next = nxt
-        self.prev = prev
 
 class MyCircularQueue:
     def __init__(self, k: int):
         self.k = k
-        self.left = ListNode(0, None, None)
-        self.right = ListNode(0, None, self.left)
-        self.left.next = self.right
+        self.left = ListNode(0)
+        self.right = self.left
 
     def enQueue(self, value: int) -> bool:
         if self.isFull(): return False
-        curr = ListNode(value, self.right, self.right.prev)
-        self.right.prev.next = curr
-        self.right.prev = curr
+        curr = ListNode(value)
+        if self.isEmpty():
+            self.left.next = curr
+            self.right = curr
+        else:
+            self.right.next = curr
+            self.right = curr
         self.k -= 1
         return True
 
     def deQueue(self) -> bool:
         if self.isEmpty(): return False
         self.left.next = self.left.next.next
-        self.left.next.prev = self.left
+        if self.left.next is None:
+            self.right = self.left
         self.k += 1
         return True
 
@@ -32,10 +79,10 @@ class MyCircularQueue:
 
     def Rear(self) -> int:
         if self.isEmpty(): return -1
-        return self.right.prev.val
+        return self.right.val
 
     def isEmpty(self) -> bool:
-        return self.left.next == self.right
+        return self.left.next == None
 
     def isFull(self) -> bool:
         return self.k == 0
