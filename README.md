@@ -27,6 +27,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0622-design-circular-queue](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0853-car-fleet) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0981-time-based-key-value-store](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0981-time-based-key-value-store) |
 ## Math
 |  |
@@ -192,6 +194,7 @@
 | [0141-linked-list-cycle](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -212,4 +215,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
