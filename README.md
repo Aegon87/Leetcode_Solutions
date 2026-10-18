@@ -53,6 +53,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -171,6 +172,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0981-time-based-key-value-store](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0981-time-based-key-value-store) |
@@ -193,6 +195,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 ## Recursion
@@ -219,4 +222,8 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
