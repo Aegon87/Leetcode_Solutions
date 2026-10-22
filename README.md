@@ -226,4 +226,20 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0146-lru-cache) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Aegon87/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
